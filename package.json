@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/chechogra/gulp-web-starter/issues"
   },
-  "homepage": "https://github.com/chechogra/gulp-web-starter#readme"
+  "homepage": "https://github.com/chechogra/gulp-web-starter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }

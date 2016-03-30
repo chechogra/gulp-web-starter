@@ -1,0 +1,19 @@
+{
+  "name": "gulp-web-starter",
+  "version": "1.0.0",
+  "description": "Gulp Starter Project",
+  "authors": [
+    "Sergio Granada <chechogra@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Gulp",
+    "starter",
+    "project"
+  ],
+  "homepage": "https://github.com/chechogra/gulp-web-starter",
+  "appPath": "app",
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
