@@ -1,0 +1,23 @@
+{
+  "name": "gulp-web-starter",
+  "version": "1.0.0",
+  "description": "Gulp Starter Project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chechogra/gulp-web-starter.git"
+  },
+  "keywords": [
+    "Gulp",
+    "starter",
+    "project"
+  ],
+  "author": "Sergio Granada <chechogra@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chechogra/gulp-web-starter/issues"
+  },
+  "homepage": "https://github.com/chechogra/gulp-web-starter#readme"
+}
